@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">自动抢红包</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="main_text">开启/关闭抢红包功能</string>
+    <string name="accessibility_service_description">该红包仅有自动抢微信QQ红包的功能，请放心使用。</string>
+    <string name="accessibility_service_notstart">辅助功能未开启，抢红包功能不生效</string>
+
+</resources>
